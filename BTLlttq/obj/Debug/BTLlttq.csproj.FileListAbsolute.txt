@@ -1,0 +1,56 @@
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe.config
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\bin\Debug\BTLlttq.pdb
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.AssemblyReference.cache
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Form1.resources
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Properties.Resources.resources
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.GenerateResource.cache
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.CoreCompileInputs.cache
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.exe
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.pdb
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Admin.resources
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Profile.resources
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Table.resources
+D:\nam3\lập trình trực quan\c#\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Oder.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe.config
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.pdb
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.AssemblyReference.cache
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Admin.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Form1.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Oder.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Profile.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Properties.Resources.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Table.resources
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.GenerateResource.cache
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.CoreCompileInputs.cache
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.exe
+D:\Test\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.pdb
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe.config
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.pdb
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.AssemblyReference.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Admin.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Form1.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Oder.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Profile.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Properties.Resources.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Table.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.GenerateResource.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.CoreCompileInputs.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.exe
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.pdb
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe.config
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.exe
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\bin\Debug\BTLlttq.pdb
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.AssemblyReference.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Admin.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Form1.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Oder.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Profile.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Properties.Resources.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.Table.resources
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.GenerateResource.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.csproj.CoreCompileInputs.cache
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.exe
+C:\Users\TIEN ANH\Downloads\lttq-20231123T020757Z-001-20240331T142058Z-001\lttq-20231123T020757Z-001\lttq\BTLlttq-20231122T050616Z-001\BTLlttq\BTLlttq\obj\Debug\BTLlttq.pdb

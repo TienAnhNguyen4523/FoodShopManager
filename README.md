@@ -5,13 +5,18 @@ Main functionalities description:
 
   ![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/2596ef9b-08ac-4a2d-8173-34c13b496b9a)
 
+  ![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/e6023d94-fd17-45ff-9b2e-c34094102172)
+
+![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/4d7070c4-5ae6-41f4-a8cc-63f2f10a46dc)
+
+
  
 - Display data from SQL Server database.
 - Authentication, authorization, searching, filtering.
 
  ![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/f248b40e-0a08-4501-98d7-711cc2f6b720)
  
-- Support for shop management (Managing orders, table status, employee
+- Support for shop management (Managing orders, table status, employee accounts, payments, monthly revenue statistics, exporting invoices to Excel).
 
  ![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/d7c66e5c-0e87-4205-99c5-9c92443ab2b5)
 
@@ -19,7 +24,7 @@ Main functionalities description:
 
 ![image](https://github.com/TienAnhNguyen4523/FoodShopManager/assets/165120023/c5413b11-c96f-46e5-a1f9-fe0c9b5a0baf)
 
- accounts, payments, monthly revenue statistics, exporting invoices to Excel).
+ 
 
 
 

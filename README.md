@@ -26,7 +26,8 @@
 
 2. Prequites
 - ASP.NET Window App Form 
-
+- SQL Server
+  
  
 
 

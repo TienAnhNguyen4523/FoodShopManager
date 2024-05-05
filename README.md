@@ -27,7 +27,10 @@
 2. Prequites
 - ASP.NET Window App Form 
 - SQL Server
-  
+3. Running
+- Please change your sever in DataProcesser to run the program
+- Checking database for admin account because u can't regist your account yourself.
+  Admin will grant accounts to employees.
  
 
 
